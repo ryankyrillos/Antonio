@@ -1,2 +1,3 @@
 # Antonio
- Trading
+Trading
+This is a trading project
